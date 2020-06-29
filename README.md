@@ -1,0 +1,2 @@
+# EclipseGuidGenPlugin
+Eclipse plugin
