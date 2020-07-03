@@ -1,2 +1,2 @@
 # EclipseGuidGenPlugin
-Eclipse plugin
+Generate UID string and paste directly on the editor
